@@ -1,1 +1,0 @@
-C:\Python31\python.exe Set.py
